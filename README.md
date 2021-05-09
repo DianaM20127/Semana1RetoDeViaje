@@ -31,3 +31,6 @@
 <br>
 <h2>Estructura organizativa de Azure</h2>
 <p>La estructura organizativa de los recursos en Azure consta de cuatro niveles: <strong>grupos de administraci&oacute;n, suscripciones, grupos de recursos y recursos.</strong></p>
+<p>&nbsp;</p>
+<h3>Grupos de administración</h3>
+<p>Administran el acceso, las directivas y el cumplimiento de varias suscripciones. Todas las suscripciones de un grupo de administración heredan automáticamente las condiciones que se aplican al grupo de administración.</p>
