@@ -37,3 +37,6 @@
 <p>&nbsp;</p>
 <h3>Suscripciones</h3>
 <p>Una suscripción agrupa las cuentas de usuario y los recursos que han creado esas cuentas de usuario. Para cada suscripción, hay límites o cuotas en la cantidad de recursos que se pueden crear y usar. </p>
+<p>&nbsp;</p>
+<h3>Grupos de recursos</h3>
+<p>Agrupa los recursos, actúa como contenedor lógico en el que se implementan y administran recursos de Azure como aplicaciones web, bases de datos y cuentas de almacenamiento.</p>
