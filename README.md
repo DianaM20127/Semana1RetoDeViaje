@@ -34,3 +34,6 @@
 <p>&nbsp;</p>
 <h3>Grupos de administración</h3>
 <p>Administran el acceso, las directivas y el cumplimiento de varias suscripciones. Todas las suscripciones de un grupo de administración heredan automáticamente las condiciones que se aplican al grupo de administración.</p>
+<p>&nbsp;</p>
+<h3>Suscripciones</h3>
+<p>Una suscripción agrupa las cuentas de usuario y los recursos que han creado esas cuentas de usuario. Para cada suscripción, hay límites o cuotas en la cantidad de recursos que se pueden crear y usar. </p>
