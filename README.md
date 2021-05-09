@@ -16,12 +16,15 @@
 <h2>Tipos de nubes</h2>
 <ul style="list-style-type: circle;">
 <li>
-<p>Publica. Los servicios se ofrecen a trav&eacute;s de la red Internet p&uacute;blica y est&aacute;n disponibles para cualquiera que quiera comprarlos.</p>
+<p><strong>Publica.</strong> Los servicios se ofrecen a trav&eacute;s de la red Internet p&uacute;blica y est&aacute;n disponibles para cualquiera que quiera comprarlos.</p>
 </li>
 <li>
-<p>Privada. Los recursos son de uso exclusivo de los usuarios de una empresa u organizaci&oacute;n.</p>
+<p><strong>Privada.</strong> Los recursos son de uso exclusivo de los usuarios de una empresa u organizaci&oacute;n.</p>
 </li>
 <li>
-<p>Hibrida. Este entorno inform&aacute;tico combina una nube p&uacute;blica y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.</p>
+<p><strong>Hibrida.</strong> Este entorno inform&aacute;tico combina una nube p&uacute;blica y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.</p>
 </li>
 </ul>
+<br>
+<h2>Azure</h2>
+<p>Ofrece un conjunto de servicios informáticos en la nube que ayudan a la organización a cumplir los desafíos empresariales.</p>
