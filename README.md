@@ -28,3 +28,6 @@
 <br>
 <h2>Azure</h2>
 <p>Ofrece un conjunto de servicios informáticos en la nube que ayudan a la organización a cumplir los desafíos empresariales.</p>
+<br>
+<h2>Estructura organizativa de Azure</h2>
+<p>La estructura organizativa de los recursos en Azure consta de cuatro niveles: <strong>grupos de administraci&oacute;n, suscripciones, grupos de recursos y recursos.</strong></p>
