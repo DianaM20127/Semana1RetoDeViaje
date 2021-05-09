@@ -40,3 +40,6 @@
 <p>&nbsp;</p>
 <h3>Grupos de recursos</h3>
 <p>Agrupa los recursos, actúa como contenedor lógico en el que se implementan y administran recursos de Azure como aplicaciones web, bases de datos y cuentas de almacenamiento.</p>
+<p>&nbsp;</p>
+<h3>Recursos</h3>
+<p>Los recursos son instancias de servicios que puede crear, como máquinas virtuales, almacenamiento o bases de datos SQL.</p>
